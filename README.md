@@ -1,4 +1,4 @@
-# -barter-app.
+# barter-app.
 ""
 Details to Include:
 
